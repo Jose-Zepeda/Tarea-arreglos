@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Tarea\bin\Debug\net7.0\Tarea.exe
+C:\Users\Usuario\Desktop\Tarea\bin\Debug\net7.0\Tarea.deps.json
+C:\Users\Usuario\Desktop\Tarea\bin\Debug\net7.0\Tarea.runtimeconfig.json
+C:\Users\Usuario\Desktop\Tarea\bin\Debug\net7.0\Tarea.dll
+C:\Users\Usuario\Desktop\Tarea\bin\Debug\net7.0\Tarea.pdb
+C:\Users\Usuario\Desktop\Tarea\obj\Debug\net7.0\Tarea.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tarea\obj\Debug\net7.0\Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Tarea\obj\Debug\net7.0\Tarea.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tarea\obj\Debug\net7.0\Tarea.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tarea\obj\Debug\net7.0\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tarea\obj\Debug\net7.0\Tarea.dll
+C:\Users\Usuario\Desktop\Tarea\obj\Debug\net7.0\refint\Tarea.dll
+C:\Users\Usuario\Desktop\Tarea\obj\Debug\net7.0\Tarea.pdb
+C:\Users\Usuario\Desktop\Tarea\obj\Debug\net7.0\Tarea.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Tarea\obj\Debug\net7.0\ref\Tarea.dll
